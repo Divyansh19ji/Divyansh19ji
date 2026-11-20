@@ -3,11 +3,11 @@
   # 💫 Hi there, I'm <span style="color: #38bdf8;">Divyansh Sharma</span> 👋
   
   <p align="center">
-    <b>🎓 B.Tech in Cyber Security (<a href="https://www.ipu.ac.in/">GGSIPU</a>)</b>
+    <b>🎓 B.Tech in Cyber Security (<a href="https://www.ipu.ac.in/">GGSIPU</a>) &nbsp;•&nbsp; 📜 1-Year Certification in Applied AI & Data Science (<a href="https://www.iitj.ac.in/">IIT Jodhpur</a>)</b>
   </p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=620&lines=Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;B.Tech+in+Cyber+Security+%40+GGSIPU+%F0%9F%8E%93;Smart+India+Hackathon+(SIH)+Finalist+%F0%9F%8F%86;Building+JARVIS-on-a-Stick+%F0%9F%A4%96;Exploring+Local+LLMs+%26+Cryptography+%F0%9F%94%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=620&lines=Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;B.Tech+in+Cyber+Security+%40+GGSIPU+%F0%9F%8E%93;Applied+AI+%26+Data+Science+%40+IIT+Jodhpur+%F0%9F%93%9C;Smart+India+Hackathon+(SIH)+Finalist+%F0%9F%8F%86;Building+JARVIS-on-a-Stick+%F0%9F%A4%96;Exploring+Local+LLMs+%26+Cryptography+%F0%9F%94%90" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -44,12 +44,14 @@
 ```yaml
 Name: Divyansh Sharma
 Education: B.Tech in Cyber Security (GGSIPU)
+Certification: 1-Year Program in Applied AI & Data Science (IIT Jodhpur)
 Pronouns: He/Him
 Location: New Delhi, India
 Current_Obsession: Local LLMs, Hardware-Software Integration, & Cryptographic Security
 Motto: "I love Tech, and Tech loves me."
 ```
 
+- 🎓 **Academics & Certifications:** Pursuing **B.Tech in Cyber Security** (*GGSIPU*) &bull; Completed **1-Year Certification in Applied AI & Data Science** (*IIT Jodhpur*).
 - 🔭 **Current Focus:** Engineering **JARVIS-on-a-Stick** — a portable, fully offline AI assistant designed for autonomous system tasks without cloud dependence.
 - 🌱 **Deep Diving Into:** Local LLM quantization & deployment, advanced Cryptography, and real-time streaming architectures using the **Pathway Framework**.
 - 🛡️ **Security Interests:** AI-driven security tooling, anomaly detection, threat modeling, and defensive architecture.
