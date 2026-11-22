@@ -96,7 +96,7 @@ Motto: "I love Tech, and Tech loves me."
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh19ji&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Divyansh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh19ji&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Divyansh's GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Divyansh19ji&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
