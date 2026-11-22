@@ -95,17 +95,14 @@ Motto: "I love Tech, and Tech loves me."
 
 ### 📊 GitHub Activity & Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh19ji&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Divyansh's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Divyansh19ji&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh19ji&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Divyansh's GitHub Stats" height="175" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Divyansh19ji&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh19ji&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh19ji&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+</p>
 
 <br/>
 
